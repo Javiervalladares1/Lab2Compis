@@ -1,0 +1,11 @@
+edad = 20
+limite = 18
+mayor = edad > limite
+menor = edad < limite
+iguales = edad == limite
+distintos = edad != limite
+activo = true
+listo = activo == mayor
+pi = 3.14
+radio = 2.0
+esGrande = radio > pi

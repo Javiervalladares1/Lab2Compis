@@ -1,0 +1,7 @@
+x = 5
+y = 2.5
+z = x + y
+w = x + true
+x = false
+v = t + 1
+b = x < 2.5
