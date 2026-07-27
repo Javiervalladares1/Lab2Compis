@@ -1,6 +1,8 @@
 # Laboratorio 2: Sistema de Tipos con ANTLR
 
+Link del video: https://youtu.be/if_QmOrdzsc
 ## Descripción general
+
 
 ANTLR (*ANother Tool for Language Recognition*) es un generador de analizadores: a partir de una gramática `.g4` produce automáticamente el **lexer** (convierte texto en tokens) y el **parser** (verifica la estructura sintáctica y construye el árbol de análisis). Además, ANTLR genera dos mecanismos para recorrer ese árbol: el **Visitor** y el **Listener**.
 
